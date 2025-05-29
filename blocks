@@ -1,9 +1,0 @@
-<script>start("/Users/gihra/Downloads/se_project_spots/blocks/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("card.css","card.css",0,740,"740 B",1747778414,"5/20/25, 6:00:14 PM");</script>
-<script>addRow("cards.css","cards.css",0,327,"327 B",1747334593,"5/15/25, 2:43:13 PM");</script>
-<script>addRow("content.css","content.css",0,32,"32 B",1747247712,"5/14/25, 2:35:12 PM");</script>
-<script>addRow("footer.css","footer.css",0,332,"332 B",1747760064,"5/20/25, 12:54:24 PM");</script>
-<script>addRow("header.css","header.css",0,150,"150 B",1747673960,"5/19/25, 12:59:20 PM");</script>
-<script>addRow("pages.css","pages.css",0,172,"172 B",1747691575,"5/19/25, 5:52:55 PM");</script>
-<script>addRow("profile.css","profile.css",0,2548,"2.5 kB",1747779148,"5/20/25, 6:12:28 PM");</script>
