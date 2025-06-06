@@ -22,6 +22,7 @@
   font-family: "Poppins", Arial, Helvetica, sans-serif;
   color: #fcf5e5;
   transition: opacity 0.02s;
+  border: none;
 }
 
 .profile__add-btn:hover {
